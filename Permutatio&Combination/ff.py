@@ -7,6 +7,3 @@ def fact(x):
     else:
         y=x*fact(x-1)
         return (y)
-# val=int(input("Enter a value : "))
-# funct_val=fact(val)
-# print("factorial of {} is {} ".format(val,funct_val))
