@@ -1,5 +1,4 @@
 
-# print("Program for factorial of number ")
 def fact(x):
     if(x==0 or x==1):
         y=1
