@@ -1,3 +1,5 @@
+#program to change infix to prefix
+
 x=input("Enter an expression: ")
 operand=""
 expression=[]
