@@ -1,6 +1,3 @@
-
-
-
 def f1():
     x=100
     return x
